@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Icon brand";
+  src: url(https://cdn.rawgit.com/deavetheferret/random-shit-ressources/blob/main/WebFonts/icon/i-brands-400.woff2);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Icon regular";
+  src: url(https://cdn.rawgit.com/deavetheferret/random-shit-ressources/blob/main/WebFonts/icon/i-regular-400.woff2);
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Icon solid";
+  src: url(https://cdn.rawgit.com/deavetheferret/random-shit-ressources/blob/main/WebFonts/icon/i-solid-900.woff2);
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Icon sharp light";
+  src: url(https://cdn.rawgit.com/deavetheferret/random-shit-ressources/blob/main/WebFonts/icon/i-sharp-light-300.woff2);
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Icon sharp regular";
+  src: url(https://cdn.rawgit.com/deavetheferret/random-shit-ressources/blob/main/WebFonts/icon/i-sharp-regular-400.woff2);
+  font-weight: 400;
+  font-style: normal;
+}
